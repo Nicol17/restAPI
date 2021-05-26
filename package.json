@@ -1,0 +1,24 @@
+{
+  "name": "restapi",
+  "version": "1.0.0",
+  "description": "database built",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon router.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nicol17/restAPI.git"
+  },
+  "author": "Nicol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nicol17/restAPI/issues"
+  },
+  "homepage": "https://github.com/Nicol17/restAPI#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
